@@ -1,2 +1,2 @@
 # EULER
-Project euler problemlerinin dart ile çözümü.
+Project Euler (https://projecteuler.net/) problemlerinin Dart ile çözümü.
