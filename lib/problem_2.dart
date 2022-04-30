@@ -5,5 +5,5 @@
 /// 
 /// 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 /// 
-/// 4 Milyon'u aşmayacak şekilde çift olan Fibonacci sayılarını bulunuz.
+/// 4 Milyon'u aşmayacak şekilde çift olan Fibonacci sayılarınının toplamını bulunuz.
 
